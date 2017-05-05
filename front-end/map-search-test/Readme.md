@@ -4,8 +4,10 @@
 
 You've been given:
 
-1. `index.html`: The base HTML file with a full-page Google map with inline javascript & css
-2. `sample-data.js`: The sample data that should be searched. Each record has _at least_ an `id` and `name`.
+1. `index.html`: The base HTML file with a full-page Google Map
+2. `main.css`: The base CSS file
+3. `main.js`: The base JS file
+4. `sample-data.js`: The sample data that should be searched. Each record has _at least_ an `id` and `name`.
 
 ## The Task
 
