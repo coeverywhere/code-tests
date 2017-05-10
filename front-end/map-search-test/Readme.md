@@ -13,10 +13,10 @@ You've been given:
 
 Create a user interface that implements the following:
 
-1. "Autocomplete" search field. Use the provided sample data (found in `sample-data.js`) to allows users to search in an input field (type `text` or `search`) for results based on the data `name` value.
-1. Results drop down. Show the results of the autocomplete input as a list of items that a user can select/click from.
-1. Locations/markers. When a user finds and clicks a search result, display the location on the map.
-1. Detailed popup. When a user clicks a map location/marker, display a popup that contains additional information about that location.
+1. "Autocomplete" search field - Using the provided sample data in `sample-data.js`, allow users to search in an input field (type `text` or `search`) for results based on the data `name` value.
+1. Results list - Show the results of the autocomplete search as a list of items that a user can select/click.
+1. Locations/markers - When a user finds and clicks a search result, display the location on the map.
+1. Details popup - When a user clicks a map location/marker, display a popup that contains additional information about that location.
 
 ## Things to think about
 
@@ -36,6 +36,6 @@ Create a user interface that implements the following:
 
 ### Be Unique!
 
-If you have any questions/comments/feedback, don't hesitate to [shoot Brian an email](mailto:brian@groundsignal.com)!
+If you have any questions/comments/feedback, don't hesitate to [shoot us an email](mailto:jobs@groundsignal.com)!
 
 For quick reference, some Google Maps documentation can be found at [https://developers.google.com/maps/documentation/javascript/](https://developers.google.com/maps/documentation/javascript)
