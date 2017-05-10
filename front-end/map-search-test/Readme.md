@@ -16,7 +16,15 @@ Create a user interface that implements the following:
 1. "Autocomplete" search field - Using the provided sample data in `sample-data.js`, allow users to search in an input field for results based on the data `name` value.
 1. Results list - Show the results of the autocomplete search as a list of items that a user can select/click.
 1. Locations/markers - When a user finds and clicks a search result, display the location on the map.
-1. Details popup - When a user clicks a map location/marker, display a popup that contains additional information about that location.
+1. Details modal - When a user clicks a map location/marker, display a modal that contains additional information about that location. (see below)
+
+## Details Modal
+
+When clicking on a map location/marker you should display a modal that contains information about that specific location. **This modal should be both horizontally and vertically aligned.**
+
+Example:
+
+![Example vertically and horizontally aligned modal](./test-example-modal.png?raw=true)
 
 ## Things to think about
 
