@@ -11,16 +11,12 @@ You've been given:
 
 ## The Task
 
-Clone the repository to your local machine.
-
 Create a user interface that implements the following:
 
 1. "Autocomplete" search field - Using the provided sample data in `sample-data.js`, allow users to search in an input field for results based on the data `name` value.
 1. Results list - Show the results of the autocomplete search as a list of items that a user can select/click.
 1. Locations/markers - When a user finds and clicks a search result, display the location on the map.
 1. Details popup - When a user clicks a map location/marker, display a popup that contains additional information about that location.
-
-Zip and return the completed test folder to us.
 
 ## Things to think about
 
