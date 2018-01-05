@@ -36,7 +36,7 @@ Example:
 
 ## Extra Credit
 
-* We use [Ractive.js](http://ractive.js.org) for our user interface at **Ground Signal**. If you find it useful for this exercise, by all means give it a go!
+* We use [Ractive.js](http://ractive.js.org) for our user interface at **Ground Signal** and are in the process of moving to [Vue.js](https://vuejs.org). If you find it useful for this exercise, by all means try one of them out!
 * We also implement _lots_ of charts using [Chart.js](http://chartjs.org/). We've included some data (see `avgStoreTraffic`) in the `sample-data.js` in case you want to spice up your modal with that.
 * Let us know how we could improve this test. Bug? Improvement? Do a PR!
 * Anything else awesome. :)
