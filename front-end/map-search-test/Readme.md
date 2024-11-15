@@ -23,6 +23,9 @@ following:
 3. Locations/markers - When a user finds and clicks a search result, display the location on the map.
 4. Details modal - When a user clicks a map location/marker, display a modal that contains additional information about
    that location. (see below)
+5. Star a location - Save the result to a list and share the list with anyone.
+6. Data need to be hosted from a mock api server. Implement basic CRUD, adding/edit/remove for new location (title,
+   description, images, link …etc) as applicable.
 
 **How the initial page should look:**
 
